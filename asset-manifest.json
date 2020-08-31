@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Camilo95VP/Drums_machine/static/css/main.d18195c7.chunk.css",
+    "main.js": "/Camilo95VP/Drums_machine/static/js/main.fe643626.chunk.js",
+    "main.js.map": "/Camilo95VP/Drums_machine/static/js/main.fe643626.chunk.js.map",
+    "runtime-main.js": "/Camilo95VP/Drums_machine/static/js/runtime-main.57a21260.js",
+    "runtime-main.js.map": "/Camilo95VP/Drums_machine/static/js/runtime-main.57a21260.js.map",
+    "static/js/2.58b9601a.chunk.js": "/Camilo95VP/Drums_machine/static/js/2.58b9601a.chunk.js",
+    "static/js/2.58b9601a.chunk.js.map": "/Camilo95VP/Drums_machine/static/js/2.58b9601a.chunk.js.map",
+    "index.html": "/Camilo95VP/Drums_machine/index.html",
+    "precache-manifest.f1e1060b8135e1717d2da91e98180de6.js": "/Camilo95VP/Drums_machine/precache-manifest.f1e1060b8135e1717d2da91e98180de6.js",
+    "service-worker.js": "/Camilo95VP/Drums_machine/service-worker.js",
+    "static/css/main.d18195c7.chunk.css.map": "/Camilo95VP/Drums_machine/static/css/main.d18195c7.chunk.css.map",
+    "static/js/2.58b9601a.chunk.js.LICENSE.txt": "/Camilo95VP/Drums_machine/static/js/2.58b9601a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Camilo95VP/Drums_machine/static/media/thumb-1920-474157.eb31578a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57a21260.js",
+    "static/js/2.58b9601a.chunk.js",
+    "static/css/main.d18195c7.chunk.css",
+    "static/js/main.fe643626.chunk.js"
+  ]
+}
